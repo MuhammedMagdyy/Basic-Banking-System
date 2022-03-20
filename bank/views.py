@@ -43,6 +43,6 @@ def update_view(request, id):
                 receiver.balance = receiver.balance + balance
             sender.save()
             receiver.save()
-            return HttpResponseRedirect("http://aa1-a.herokuapp.com/bank_system/list/")
+            return HttpResponseRedirect("http://banking1system.herokuapp.com/bank_system/list/")
     context["form"] = form
     return render(request, "bank_system/html/update_view.html", context)
