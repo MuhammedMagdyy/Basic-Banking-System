@@ -22,11 +22,11 @@ git clone https://github.com/MuhammedMagdyy/basic-bank-system.git
 * [Heroku](https://dashboard.heroku.com/) system deletes the database every 30 minutes I think, so I'll add some steps to test the database if you've found it deleted.
 ------------------
 ## Steps
-1. Click on the [database-link](https://banking1system.herokuapp.com/admin/)
+1. Click on the [database-link](https://banking1system.herokuapp.com/admin)
 2.  use ```Tester``` as a username and ```database-admin-123456789``` as a password
-3.  After logging in, You will see this window, just click on ```add``` ![profiles-database](https://user-images.githubusercontent.com/60513866/159690719-386775a5-d1a1-4672-ba62-7eb61c58905f.png)
-4. You can add all profile because it's very ***important***, then click ```SAVE``` ![add-user](https://user-images.githubusercontent.com/60513866/159688495-3d73025f-7800-43b9-9f91-1a81d143edcf.png) 
-5. Finally, The database will be like this picture ![final-result](https://user-images.githubusercontent.com/60513866/159689168-2b2dcd3f-0b86-4984-93e9-5377c3bca009.png)
+3.  After logging in, You will see this window, just click on ```add``` ![profiles-database](https://user-images.githubusercontent.com/60513866/159703692-9d7d4fe5-4bfb-4114-86d1-4bc8e47ab59b.png)
+4. You can add all profile because it's very ***important***, then click ```SAVE``` ![add-user](https://user-images.githubusercontent.com/60513866/159703111-22f05005-749e-4cc1-bb51-88d5876e91f0.png)
+5. Finally, The database will be like this picture ![final-result](https://user-images.githubusercontent.com/60513866/159703481-53eaa25f-077f-4d01-bbe7-96c64641b450.png)
 
 ## Video
 https://user-images.githubusercontent.com/60513866/159682565-1be25b27-ada1-4147-8308-4de44796e135.mp4
