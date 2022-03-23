@@ -3,8 +3,7 @@
 After clicking on view customers, You can transfer money between users, just click on `Transfer` at the customer that you want to transfer from then you can write the email and the balance for the other customer that you want to transfer to.
 
 ## Requirments
-This is a requirments file, you can check it from here:
-https://github.com/MuhammedMagdyy/basic-bank-system/blob/main/requirements.txt
+This is a requirments file, you can check it from here: [requirments-file](https://github.com/MuhammedMagdyy/basic-bank-system/blob/main/requirements.txt)
 
 Also you can clone the project by using this command on `CMD`
 ```
@@ -19,10 +18,10 @@ git clone https://github.com/MuhammedMagdyy/basic-bank-system.git
   - sqlite3
 
 #### Notes:
+------------------
 * [Heroku](https://dashboard.heroku.com/) system deletes the database every 30 minutes I think, so I'll add some steps to test the database if you've found it deleted.
-
+------------------
 ## Steps
-
 1. Click on the [database-link](https://banking1system.herokuapp.com/admin/)
 2.  use ```admin``` as a username and ```database-admin-123456789``` as a password
 3.  After logging in, You will see this window, just click on ```add``` ![profiles-database](https://user-images.githubusercontent.com/60513866/159690719-386775a5-d1a1-4672-ba62-7eb61c58905f.png)
