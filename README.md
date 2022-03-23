@@ -7,7 +7,7 @@ This is a requirments file, you can check it from here: [requirments-file](https
 
 Also you can clone the project by using this command on `CMD`
 ```
-git clone https://github.com/MuhammedMagdyy/basic-bank-system.git
+git clone https://github.com/MuhammedMagdyy/Basic-Banking-System.git
 ```
 
 ## Tools and Technologies
