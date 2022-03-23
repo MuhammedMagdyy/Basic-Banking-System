@@ -23,7 +23,7 @@ git clone https://github.com/MuhammedMagdyy/basic-bank-system.git
 ------------------
 ## Steps
 1. Click on the [database-link](https://banking1system.herokuapp.com/admin/)
-2.  use ```admin``` as a username and ```database-admin-123456789``` as a password
+2.  use ```Tester``` as a username and ```database-admin-123456789``` as a password
 3.  After logging in, You will see this window, just click on ```add``` ![profiles-database](https://user-images.githubusercontent.com/60513866/159690719-386775a5-d1a1-4672-ba62-7eb61c58905f.png)
 4. You can add all profile because it's very ***important***, then click ```SAVE``` ![add-user](https://user-images.githubusercontent.com/60513866/159688495-3d73025f-7800-43b9-9f91-1a81d143edcf.png) 
 5. Finally, The database will be like this picture ![final-result](https://user-images.githubusercontent.com/60513866/159689168-2b2dcd3f-0b86-4984-93e9-5377c3bca009.png)
