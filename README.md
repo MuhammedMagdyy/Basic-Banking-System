@@ -2,7 +2,7 @@
 
 After clicking on view customers, You can transfer money between users, just click on `Transfer` at the customer that you want to transfer from then you can write the email and the balance for the other customer that you want to transfer to.
 
-## Requirments
+## How to Run
 This is a requirments file, you can check it from here: [requirments-file](https://github.com/MuhammedMagdyy/basic-bank-system/blob/main/requirements.txt)
 
 Also you can clone the project by using this command on `CMD`
