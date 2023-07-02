@@ -10,6 +10,8 @@ from .forms import *
 from django.contrib import messages
 # Create your views here.
 
+BASE_URL = 'http://127.0.0.1:8000/'
+
 
 def list_view(request):
     context = {}
@@ -43,6 +45,6 @@ def update_view(request, id):
                 receiver.balance = receiver.balance + balance
             sender.save()
             receiver.save()
-            return HttpResponseRedirect("http://banking1system.herokuapp.com/bank_system/list/")
+            return HttpResponseRedirect("${BASE_URL}+bank_system/list/")
     context["form"] = form
     return render(request, "bank_system/html/update_view.html", context)
